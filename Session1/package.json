@@ -1,0 +1,31 @@
+{
+  "name": "session1",
+  "version": "1.0.0",
+  "description": "This is namaste-react",
+  "scripts": {
+    "start": "parcel /index.html",
+    "build": "parcel build /index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamRishabh07/NamasteReact.git#main"
+  },
+  "author": "Rishabh Srivastava",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamRishabh07/NamasteReact/issues"
+  },
+  "homepage": "https://github.com/iamRishabh07/NamasteReact/tree/main#readme",
+  "devDependencies": {
+    "parcel": "^2.10.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browsersList": [
+    "last 3 versions"
+  ]
+}
